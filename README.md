@@ -1,8 +1,7 @@
+# Projeto Social - Simulação de Redes Sociais
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
-
-# Projeto Social - Simulação de Redes Sociais
 
 Projeto desenvolvido com **HTML5** e **CSS3** com o objetivo de simular a interface de um **smartphone**, permitindo a navegação entre diferentes redes sociais através de botões interativos.
 
